@@ -1,0 +1,90 @@
+{
+  "site_name": "KaffeeOlee Vergleicher",
+  "headline": "Der beste Kaffeevollautomat für Ihr Zuhause: Kaffee Olee im Test",
+  "subheadline": "Kaffeevollautomaten & Siebträger für Zuhause: Jetzt vergleichen & den perfekten Genuss finden",
+  "quick_verdict": "Kaffee Olee bietet eine exzellente Balance aus Design, Leistung und Nachhaltigkeit, ideal für Genießer, die Wert auf Qualität legen.",
+  "accent_color": "#1e3a8a",
+  "products": [
+    {
+      "name": "Kaffee Olee Barista Pro",
+      "badge": "Bestes Gesamtpaket",
+      "best_for": "Profis, die Barista-Qualität zu Hause wollen",
+      "price_est": "€1.299",
+      "score": 9.2,
+      "rating": 4.8,
+      "reviews_count": 452,
+      "search_query": "Kaffee Olee Barista Pro",
+      "specs": {
+        "Druck": "15 Bar",
+        "Mahlgrad": "30 Stufen",
+        "Körnerbehälter": "150g"
+      },
+      "pros": [
+        "Extrem präzise Mahlung",
+        "Hohe Milchaufschäumdichte"
+      ],
+      "cons": [
+        "Preislich im oberen Segment"
+      ]
+    },
+    {
+      "name": "Kaffee Olee Compact Eco",
+      "badge": "Platzsparend & Effizient",
+      "best_for": "Kleine Küchen & Umweltbewusste",
+      "price_est": "€849",
+      "score": 8.7,
+      "rating": 4.6,
+      "reviews_count": 310,
+      "search_query": "Kaffee Olee Compact Eco",
+      "specs": {
+        "Druck": "15 Bar",
+        "Energiesparmodus": "Aktiv",
+        "Fassungsvermögen": "1.2L"
+      },
+      "pros": [
+        "Kompaktes Design für kleine Flächen",
+        "Niedriger Stromverbrauch"
+      ],
+      "cons": [
+        "Körnerbehälter etwas klein"
+      ]
+    },
+    {
+      "name": "Kaffee Olee Smart Connect",
+      "badge": "Smartes Erlebnis",
+      "best_for": "Technik-Fans & App-Steuerung",
+      "price_est": "€1.099",
+      "score": 8.9,
+      "rating": 4.7,
+      "reviews_count": 285,
+      "search_query": "Kaffee Olee Smart Connect",
+      "specs": {
+        "WLAN": "Ja",
+        "App-Steuerung": "Ja",
+        "Rezept-Speicher": "10 Profile"
+      },
+      "pros": [
+        "Intuitive App-Steuerung",
+        "Personalisierbare Rezepte"
+      ],
+      "cons": [
+        "App-Verbindung gelegentlich instabil"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie oft sollte ich meinen Kaffee Olee-Automaten reinigen?",
+      "a": "Empfohlen wird eine Desinfektion und Entkalkung alle 2 Monate bzw. je nach Wasserhärte und Nutzungsintensität. Der Automat leitet Sie digital durch den Prozess."
+    },
+    {
+      "q": "Welche Kaffeebohnen eignen sich am besten für Kaffee Olee?",
+      "a": "Kaffee Olee funktioniert mit allen gängigen Bohnen, aber für den besten Geschmack werden mittelfein gemahlene, frisch geröstete Bohnen empfohlen."
+    }
+  ],
+  "slug": "kaffee-olee",
+  "lang": "de",
+  "marketplace": "amazon.de",
+  "icon_type": "solar",
+  "domain_suggestion": "kaffeeolee.de"
+}
